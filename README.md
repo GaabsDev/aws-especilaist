@@ -1,2 +1,4 @@
-# aws-especilaist
-Material desenvolvido durante o curso.
+# AWS Especialist
+
+Infraestrutura como Código: 
+  - Criação de Estrutura de Usuários, Diretórios e Permissões
